@@ -1,0 +1,19 @@
+table, tr, th, td{
+    border: 2px black solid;
+    width: 100%;
+}
+th{
+    font-size: 1.2rem;
+}
+.div{
+    margin: auto;
+}table, tr, th, td{
+    border: 2px black solid;
+    width: 100%;
+}
+th{
+    font-size: 1.2rem;
+}
+.div{
+    margin: auto;
+}
